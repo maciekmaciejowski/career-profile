@@ -38,7 +38,7 @@
     z-index: 2;
     object-position: center top;
     opacity: 0;
-    animation: sport-reveal 1.8s ease-in-out 3s forwards;
+    animation: sport-reveal 1.8s ease-in-out 6s forwards;
 }
 
 @keyframes sport-reveal {
